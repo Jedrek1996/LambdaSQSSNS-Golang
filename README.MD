@@ -1,3 +1,5 @@
+Steps to convert into zip and deploy onto AWS Lambda
+
 //Change env to linux
 $ENV:GOOS = "linux"     
 
